@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam (@adam-fawaz)
-- 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently doing my A-Levels and in my spare time I like to program
-- 💞️ Recently I've been interested in microcontrollers like the Raspberry Pi Pico and Arduino
+- 👀 I’m interested in Software Development, Machine Learning and Mathematical Finance
+- 🌱 I’m currently an undergraduate at the University of Warwick pursuing an MEng in Computer Science
+- 💞️ Recently I've been interested in microcontrollers like the Raspberry Pi Pico W
 - 📫 You can reach me by email: me@adamfawaz.com
 
 <!---
